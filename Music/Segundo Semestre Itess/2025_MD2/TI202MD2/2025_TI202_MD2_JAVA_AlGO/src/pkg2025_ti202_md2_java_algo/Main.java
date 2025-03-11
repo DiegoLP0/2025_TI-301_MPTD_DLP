@@ -1,0 +1,17 @@
+/*
+ * ITESS-TICS-MATEMATICAS DISCRETAS II PERIODO:ENERO-JUNIO-2025
+ * GRUPO:TI-202 DOCENTE:FRANCISCO JAVIER PROGRAMADOR:DIEGO LEYVA PANIAGUA
+ *DESCRIPCION REPASO-JAVA-ORIENTADO-A-OBJETOS
+ * 17/02/2025
+ */
+
+package pkg2025_ti202_md2_java_algo;
+
+
+public class Main {
+
+    public static void main(String[] args) {
+
+    }
+    
+}
