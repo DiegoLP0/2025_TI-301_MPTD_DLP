@@ -53,5 +53,4 @@ public class GraphAdyasenci {
         
         return 1 + depth(graph.get(p).get(0)); 
     }
-
 }

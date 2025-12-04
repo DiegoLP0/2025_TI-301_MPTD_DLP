@@ -14,5 +14,4 @@ public class GraphAdyasenciTest {
             tree.print();
             System.out.println(tree.depth(0));
     }
-    
 }
