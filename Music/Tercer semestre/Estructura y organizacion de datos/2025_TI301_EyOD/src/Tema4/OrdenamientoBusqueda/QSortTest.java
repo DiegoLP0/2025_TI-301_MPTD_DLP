@@ -1,5 +1,5 @@
 
-package Tema4.Ordenamiento;
+package Tema4.OrdenamientoBusqueda;
 
 import java.util.Random;
 
