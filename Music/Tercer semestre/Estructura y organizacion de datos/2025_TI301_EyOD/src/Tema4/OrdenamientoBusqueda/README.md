@@ -7,7 +7,7 @@ Repositorio de la cuarta unidad
 **Grupo** TI-301
 
 <div align="center">
-<img src= https://github.com/DiegoLP0/2025_TI-301_MPTD_DLP/blob/master/Music/Tercer%20semestre/Estructura%20y%20organizacion%20de%20datos/2025_TI301_EyOD/src/Tema4/OrdenamientoBusqueda/Isaac.png style="border: 5px solid black; border-radius: 15px;">
+<img src= https://github.com/DiegoLP0/2025_TI-301_MPTD_DLP/blob/master/Music/Tercer%20semestre/Estructura%20y%20organizacion%20de%20datos/2025_TI301_EyOD/src/Tema4/OrdenamientoBusqueda/Isaac.png>
 </div>
 
 ### Algoritmos Implementados:
